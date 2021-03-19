@@ -1,3 +1,17 @@
+
 h1{
     color: red;
+}
+ul{
+    display: flex;
+    margin: 20px;
+    
+}
+
+li{
+    padding: 20px;
+}
+#abcd{
+
+    background: url("/images/1.png") no-repeat center center/cover;
 }
