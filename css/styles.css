@@ -1,4 +1,10 @@
-
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+  }
 h1{
     color: red;
 }
@@ -11,7 +17,8 @@ ul{
 li{
     padding: 20px;
 }
-#abcd{
+.abcd{
 
-    background: url("../images/1.png") no-repeat center center/cover;
+    background: url("../images/1.png") ;
+    /* no-repeat center center/cover */
 }
