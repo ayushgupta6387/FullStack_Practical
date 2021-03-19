@@ -19,6 +19,6 @@ li{
 }
 .abcd{
 
-    background: url("../images/1.png") ;
+    background: url("./images/1.png") ;
     /* no-repeat center center/cover */
 }
