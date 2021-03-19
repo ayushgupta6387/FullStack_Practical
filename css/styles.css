@@ -13,5 +13,5 @@ li{
 }
 #abcd{
 
-    background: url("..//images/1.png") no-repeat center center/cover;
+    background: url("../images/1.png") no-repeat center center/cover;
 }
